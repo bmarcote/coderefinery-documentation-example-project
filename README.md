@@ -12,7 +12,12 @@ This is a Python (2.7 or 3) program that only requires `panda`.
 
 ## Usage
 
-Only contains a Python module, `analyse_spreadsheet`, that can be directly imported.
+Only contains a Python module, `analyse_spreadsheet`, that can be run:
+```python
+python analyse_spreadsheet.py
+```
+
+or imported:
 
 ```python
 
